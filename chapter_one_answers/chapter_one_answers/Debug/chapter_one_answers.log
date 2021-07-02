@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\chapter_one_answers\Source.cpp(22,6): warning C4101: 'ThisVariableIsTheFifthVariable': unreferenced local variable
+C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\chapter_one_answers\Source.cpp(10,6): warning C4101: 'var_3': unreferenced local variable
+C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\chapter_one_answers\Source.cpp(8,6): warning C4101: 'variableOne': unreferenced local variable
+C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\chapter_one_answers\Source.cpp(23,6): warning C4101: 'v6': unreferenced local variable
+C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\chapter_one_answers\Source.cpp(21,6): warning C4101: 'Variablefour': unreferenced local variable
+C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\chapter_one_answers\Source.cpp(9,6): warning C4101: 'variable_two': unreferenced local variable
+C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\chapter_one_answers\Source.cpp(64,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  chapter_one_answers.vcxproj -> C:\Users\Oliver\Documents\beginning_cpp\chapter_one_answers\Debug\chapter_one_answers.exe
