@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\Oliver\Documents\beginning_cpp\chapter_six_answers\chapter_six_answers\Source.cpp(87): warning C4172: returning address of local variable or temporary: threeMore
-  chapter_six_answers.vcxproj -> C:\Users\Oliver\Documents\beginning_cpp\chapter_six_answers\Debug\chapter_six_answers.exe
